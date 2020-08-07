@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785320816629",
+    "firebase_url": "https://shatter-7a39f.firebaseio.com",
+    "project_id": "shatter-7a39f",
+    "storage_bucket": "shatter-7a39f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785320816629:android:ff94b792d21b6d24b6babc",
+        "android_client_info": {
+          "package_name": "application.example.shatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785320816629-jpg8ehjog2te2hnl4fg9gischukcc0lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "application.example.shatter",
+            "certificate_hash": "dd857aa4cac8e1cabd8f75fca1e4b1ada1c8cc1b"
+          }
+        },
+        {
+          "client_id": "785320816629-brkmqspnoqle4hbq1f32g1ue7o6213p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGeXN_3LbdlSongHPbhsBfyu5e6TrKz48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785320816629-brkmqspnoqle4hbq1f32g1ue7o6213p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
