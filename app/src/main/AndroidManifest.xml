@@ -14,10 +14,9 @@
         android:theme="@style/AppTheme"
         android:name=".application.FirebaseApp">
         <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
-        <!-- My App ID: ca-app-pub-8726257967321250~8480493855 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8726257967321250~8480493855" />
+            android:value="ca-app-pub-3940256099942544~3347511713" />
         <activity android:name=".ContactsActivity"></activity>
         <activity android:name=".MessageActivity" />
         <activity android:name=".MainActivity" />
